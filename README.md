@@ -1,6 +1,6 @@
 # Memory Game for Udacity FEND
 
-##Description
+## Description
 
 This is a memory game for my Udacity FEND Nano-Degree. I created this game using
 the skills I have learned using HTML, CSS, and JavaScript (and jQuery).
@@ -10,7 +10,7 @@ This game is fully responsive.
 The Guidelines for this game can be found here:
 [ Memory Game project rubric](https://review.udacity.com/#!/rubrics/591/view).
 
-###How to play
+### How to play
 
 1.  Click on a card. This starts the timer.
 2.  Match cards.
