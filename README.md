@@ -16,9 +16,9 @@ The Guidelines for this game can be found here:
 2.  Match cards.
 3.  Try to get 3 stars:
 
--3 stars are 20 moves or less.
--2 stars are 28 moves or less.
--1 star is anything over 28 moves.
+- 3 stars are 20 moves or less.
+- 2 stars are 28 moves or less.
+- 1 star is anything over 28 moves.
 
 4.  Play Again.
 
