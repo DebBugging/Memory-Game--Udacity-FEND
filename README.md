@@ -12,6 +12,8 @@ The Guidelines for this game can be found here:
 
 ### How to play
 
+To play this game please visit http://amnisiactest.surge.sh/. 
+
 1.  Click on a card. This starts the timer.
 2.  Match cards.
 3.  Try to get 3 stars:
@@ -30,4 +32,4 @@ I found how to do the modal using
 I also received help on several occasions from my fantastic peers who are taking
 this Udacity Nano-Degree alongside me.
 
-#### Hope you enjoy!
+#### Enjoy!
