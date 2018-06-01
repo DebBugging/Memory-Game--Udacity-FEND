@@ -12,7 +12,7 @@ The Guidelines for this game can be found here:
 
 ### How to play
 
-To play this game please visit http://amnisiactest.surge.sh/. 
+To play this game please visit http://amnesiactest.surge.sh/. 
 
 1.  Click on a card. This starts the timer.
 2.  Match cards.
