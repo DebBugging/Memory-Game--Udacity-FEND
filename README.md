@@ -22,6 +22,12 @@ To play this game please visit http://amnesiactest.surge.sh/.
     - 1 star is anything over 28 moves.
 4.  Play Again.
 
+## Dependencies:
+* [Font Awesome](https://fontawesome.com/icons?d=gallery)
+* [Google Fonts](https://fonts.google.com/specimen/Coda?selection.family=Coda)
+* [jQuery CDN](https://developers.google.com/speed/libraries/)
+* [Color Scheme](https://coolors.co/2c3e56-ebf378-ff6363-41d3bd-fffff2)
+
 ## Contributing
 
 I used the starter code provided by Udacity which included most of the HTML, some CSS, and the shuffle function in JavaScript.
